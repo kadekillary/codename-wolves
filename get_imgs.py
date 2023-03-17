@@ -9,7 +9,7 @@ from PIL import Image
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        prog="get_subreddit_imgs",
+        prog="get_imgs",
         description="Downloads images from a subreddit",
     )
     parser.add_argument(
@@ -30,8 +30,9 @@ if __name__ == "__main__":
 
     for submission in subreddit.top(limit=args.posts):
         if submission.url.endswith(".jpg"):
+            # jpg == jpeg
             # download image
-            image_name = f"{dir}/{submission.id}.jpg"
+            image_name = f"{dir}/{submission.id}.jpeg"
             urllib.request.urlretrieve(submission.url, image_name)
             print(f"downloaded: {image_name}")
 
@@ -39,7 +40,7 @@ if __name__ == "__main__":
             image = Image.open(image_name)
             # need to resize for best results in model training
             image.resize((512, 512)).save(
-                f"{image_name.removesuffix('.jpg')}_resized.jpg"
+                f"{image_name.removesuffix('.jpeg')}_resized.jpeg"
             )
             os.remove(image_name)
             print(f"resized: {image_name}")

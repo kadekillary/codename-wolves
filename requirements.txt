@@ -1,0 +1,5 @@
+instagrapi
+requests
+Pillow
+praw
+openai

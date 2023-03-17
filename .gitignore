@@ -1,0 +1,5 @@
+praw.ini
+config.py
+*_imgs/
+__pycache__/
+.DS_Store
