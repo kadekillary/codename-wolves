@@ -36,6 +36,7 @@ cp _config.py config.py
 
 * Automate IG account creation and validation
 * IG growth strategy - can automate via Instagrapi package
+* Use better AI image generation model - MidJourneryV5, etc...
 * Getting images, where to get them?
 * Types of images, influencers, vibes?
 * How to handle image model prompting?
