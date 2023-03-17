@@ -4,6 +4,15 @@
 
 <br>
 
+Don't worry about the image sucking, that's just because of the model I used.
+
+This is a more accurate representation of the [current state of the art](https://medium.com/mlearning-ai/midjourneys-latest-version-5-ai-art-generator-v5-midjourney-is-out-adba7d642f27).
+
+<img width="592" alt="Screenshot 2023-03-17 at 08 25 12" src="https://user-images.githubusercontent.com/25046261/225948583-b0fbde92-f87f-4671-95eb-73e06cf7c9fe.png" href="https://twitter.com/smokeawayyy/status/1636442764698329088?s=46">
+
+
+<br>
+
 #### Used
 
 * Python 3.11.2
