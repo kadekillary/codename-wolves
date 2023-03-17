@@ -1,4 +1,8 @@
-### Codename Wolves
+<p align="center">
+    <h1 align="center">Codename Wolves</h1>
+</p>
+
+<br>
 
 * [Instagram Account](https://www.instagram.com/codename.wolves/)
 
