@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Codename Wolves</h1>
+    <h3 align="center">Codename Wolves</h3>
 </p>
 
 <br>
