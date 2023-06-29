@@ -4,10 +4,6 @@
 
 <br>
 
-* [Instagram Account](https://www.instagram.com/codename.wolves/)
-
-<br>
-
 Don't worry about the image sucking, that's just because of the model I used.
 
 This is a more accurate representation of the [current state of the art](https://medium.com/mlearning-ai/midjourneys-latest-version-5-ai-art-generator-v5-midjourney-is-out-adba7d642f27).
